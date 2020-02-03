@@ -1,4 +1,4 @@
-## ActiveRecord basics boilerplate
+## URL Shortener
 
 This is a minimalist implementation for url shortner using sinatra + activerecord + rspec
 
