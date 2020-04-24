@@ -4,6 +4,7 @@ gem 'mysql2'
 gem 'rake'
 gem 'sinatra'
 gem 'sinatra-activerecord'
+gem 'faraday'
 
 group :test do
   gem 'database_cleaner'
